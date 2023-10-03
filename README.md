@@ -1,10 +1,27 @@
-# MakersBnB Project Seed
+<h1 align="center">MakersBnB</h1>
 
-This repo contains the seed codebase for the MakersBnB project in Python (using 
-Flask and Pytest).
+<p align="center">
+In this group project, we were tasked with designing and integrating a SQL database in Python to create a web application called MakersBnB within 4 days.</p>
 
-Someone in your team should fork this seed repo to their Github account. 
-Everyone in the team should then clone this fork to their local machine to work on it.
+<p align="center">MakersBnB is an AirBnB replica web application where you can register as a user, log-in as a user, and find and book accomodation or offer accomodation to be booked.</p>
+
+## Our Team
+
+* **[Roberto Quadraccia](https://github.com/Super-robbin)**
+* **[Ami Day](https://github.com/ami-day)**
+* **[David Ade](https://github.com/D6link)**
+* **[Huda](https://github.com/hudaa12])**
+* **[Jake Siney](https://github.com/jakesiney)**
+
+## Tech stack
+
+**Frontend:**
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
+**Backend:**
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+
 
 ## Setup
 
